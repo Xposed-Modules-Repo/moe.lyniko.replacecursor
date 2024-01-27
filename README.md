@@ -29,12 +29,12 @@ For example, use `ls -a *.ani | xargs -L1 ani2png` to convert all `.ani` files i
 
 From MIUI 13, Android 12.
 
-| Resource ID        | Desciption                                                      | HotSpot  |
-|--------------------|-----------------------------------------------------------------|----------|
-| pointer_spot_touch | Touch point                                                     | (22, 22) |
-| pointer_arrow      | Mouse Pointer (Arrow)                                            | (5, 5)   |
-| pointer_hand       | Mouse Pointer (Hand, for example when hover on sth. clickable)   | (9, 4)   |
-| pointer_text       | Mouse Pointer (Looks like `|`， for editing vertical text input) | (12, 12)   |
+| Resource ID        | Desciption                                                                        | HotSpot  |
+|--------------------|-----------------------------------------------------------------------------------|----------|
+| pointer_spot_touch | Touch point                                                                       | (22, 22) |
+| pointer_arrow      | Mouse Pointer (Arrow)                                                             | (5, 5)   |
+| pointer_hand       | Mouse Pointer (Hand, for example when hover on sth. clickable)                    | (9, 4)   |
+| pointer_text       | Mouse Pointer (Looks like '<code>&#124;</code>'， for editing vertical text input) | (12, 12) |
 
 Please note that the images may be scaled, in my case `360x360` is good for phone.
 
