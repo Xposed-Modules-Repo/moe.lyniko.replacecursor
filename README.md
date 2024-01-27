@@ -8,6 +8,8 @@ Note: You can use Magisk + [RRO](https://source.android.com/docs/core/runtime/rr
 See `magisk` folder for more information.
 (be aware of SELinux context, btw.)
 
+![Demo picture, showing UI and example cursor](https://github.com/Young-Lord/replaceCursor/assets/51789698/416d64cc-f065-4b55-953a-6766c27e9f6a)
+
 ## How to use / 用法
 
 > Tested on:  Android 10 (AOSP), Android 12 (MIUI 13)
