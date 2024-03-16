@@ -5,7 +5,7 @@ Replace mouse cursor with a custom one.
 自定义包括鼠标指针、触控点在内的各种图片资源。
 
 Note: You can use Magisk + [RRO](https://source.android.com/docs/core/runtime/rros) for better experience.
-See `magisk` folder for more information.
+See [`magisk` folder](https://github.com/Young-Lord/replaceCursor/tree/master/magisk) for more information.
 (be aware of SELinux context, btw.)
 
 ![Demo picture, showing UI and example cursor](https://github.com/Young-Lord/replaceCursor/assets/51789698/416d64cc-f065-4b55-953a-6766c27e9f6a)
@@ -60,6 +60,7 @@ Apache-2.0 License or MIT License are all OK.
 - <https://github.com/hujiayucc/R-Pointer> (per-app configuration)
 - <https://github.com/quantum5/win2xcur> (convert `.cur` and `.ani` to Xcursor format, for Linux)
 - <https://github.com/eworm-de/xcur2png> (convert Xcursor format to `.png`, see pull requests for a better version)
+- [将Windows上的鼠标指针主题移植到Linux上](https://blog.csdn.net/qq_41172785/article/details/89063164) (convert, edit, install Windows cursors to Linux)
 
 ## TODO
 
